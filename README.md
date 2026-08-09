@@ -1,14 +1,18 @@
-### Tiket — Tickets that cannot be faked or spent twice
+# Hi, I'm Ngoc
 
-A screenshot of a ticket is not a ticket.
+Full-stack developer building on the **Stellar** network — smart contracts in Soroban, apps in modern TypeScript.
 
-Buying escrows the price into the contract and records the ticket on-chain. At the door, check-in settles the escrow to the organizer and flips the ticket to Used in the same transaction — spent exactly once.
+### Featured project
 
-|  |  |
-|---|---|
-| Live | [tiket-mu.vercel.app](https://tiket-mu.vercel.app) |
-| Code | [ngoc0619271-ops/Tiket](https://github.com/ngoc0619271-ops/Tiket) |
-| Stack | Soroban (Rust) · Next.js · TypeScript |
-| Contract | [`CDIQ6JCW6U…`](https://stellar.expert/explorer/public/contract/CDIQ6JCW6UGLKBNINAJKTDRICA5ZRP5MNS6HGB7I3NRTYRTDRDHO7Y6I) |
+**[Tiket](https://github.com/ngoc0619271-ops/Tiket)** — a Stellar/Soroban application: on-chain logic, a real testnet transaction, and a typed web frontend.
 
-Refund before the event returns the escrow. That is what makes the escrow fair rather than just a lock: the buyer's money is not stranded if plans change.
+### Tech
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?logo=stellar&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
+### Stats
+
+![ngoc0619271-ops's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoc0619271-ops&show_icons=true&hide_border=true)
